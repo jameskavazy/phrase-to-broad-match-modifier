@@ -1,7 +1,7 @@
 /*
     Settings
 
-    For the script to function correctly, you must use consistent naming convention for all of your exact match campaigns so that it can differentiate them from the others.
+    For the script to function correctly, you must use consistent naming convention for all of your phrase match campaigns so that it can differentiate them from the others.
 */
 //----------------//
 var dateRange = "LAST_14_DAYS"; // Choose from "YESTERDAY", "LAST_7_DAYS","LAST_14_DAYS", "LAST_30_DAYS"
